@@ -1,0 +1,11 @@
+C:\Users\yofet\Desktop\Practice-Projects\Coding Dojo Info\4. DotNet Stack\Language_Essential\SinglyLinkedList\obj\Debug\netcoreapp2.2\SinglyLinkedList.csprojAssemblyReference.cache
+C:\Users\yofet\Desktop\Practice-Projects\Coding Dojo Info\4. DotNet Stack\Language_Essential\SinglyLinkedList\obj\Debug\netcoreapp2.2\SinglyLinkedList.csproj.CoreCompileInputs.cache
+C:\Users\yofet\Desktop\Practice-Projects\Coding Dojo Info\4. DotNet Stack\Language_Essential\SinglyLinkedList\obj\Debug\netcoreapp2.2\SinglyLinkedList.AssemblyInfoInputs.cache
+C:\Users\yofet\Desktop\Practice-Projects\Coding Dojo Info\4. DotNet Stack\Language_Essential\SinglyLinkedList\obj\Debug\netcoreapp2.2\SinglyLinkedList.AssemblyInfo.cs
+C:\Users\yofet\Desktop\Practice-Projects\Coding Dojo Info\4. DotNet Stack\Language_Essential\SinglyLinkedList\bin\Debug\netcoreapp2.2\SinglyLinkedList.deps.json
+C:\Users\yofet\Desktop\Practice-Projects\Coding Dojo Info\4. DotNet Stack\Language_Essential\SinglyLinkedList\bin\Debug\netcoreapp2.2\SinglyLinkedList.runtimeconfig.json
+C:\Users\yofet\Desktop\Practice-Projects\Coding Dojo Info\4. DotNet Stack\Language_Essential\SinglyLinkedList\bin\Debug\netcoreapp2.2\SinglyLinkedList.runtimeconfig.dev.json
+C:\Users\yofet\Desktop\Practice-Projects\Coding Dojo Info\4. DotNet Stack\Language_Essential\SinglyLinkedList\bin\Debug\netcoreapp2.2\SinglyLinkedList.dll
+C:\Users\yofet\Desktop\Practice-Projects\Coding Dojo Info\4. DotNet Stack\Language_Essential\SinglyLinkedList\bin\Debug\netcoreapp2.2\SinglyLinkedList.pdb
+C:\Users\yofet\Desktop\Practice-Projects\Coding Dojo Info\4. DotNet Stack\Language_Essential\SinglyLinkedList\obj\Debug\netcoreapp2.2\SinglyLinkedList.dll
+C:\Users\yofet\Desktop\Practice-Projects\Coding Dojo Info\4. DotNet Stack\Language_Essential\SinglyLinkedList\obj\Debug\netcoreapp2.2\SinglyLinkedList.pdb
